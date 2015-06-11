@@ -1,0 +1,25 @@
+{
+  "name": "travis",
+  "version": "0.0.0",
+  "description": "hello world for travis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/github-libra/travis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github-libra/travis/issues"
+  },
+  "homepage": "https://github.com/github-libra/travis",
+  "dependencies": {
+    "grunt-jslint": "^1.1.14"
+  },
+  "scripts": {
+    "test": "grunt --verbose"
+  }
+}
