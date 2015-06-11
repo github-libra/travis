@@ -18,6 +18,6 @@
   "homepage": "https://github.com/github-libra/travis",
   "devDependencies": {
     "grunt-jslint": "1.1.14",
-    "grunt": "^0.4.5"
+    "grunt": "0.4.5"
   }
 }
